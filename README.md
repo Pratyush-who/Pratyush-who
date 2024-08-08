@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Pratyush
+- 📫 How to reach me ... ig- o.g_pratyush
+- 😄 Pronouns: ...he/him🌱 
