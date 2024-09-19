@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Frontend Developer | HTML, CSS, JavaScript Enthusiast  <br>💻 Passionate about building responsive and interactive web experiences  <br>🚀 Always learning and experimenting with new web technologies  <br>
+🌐 Developer | HTML, CSS, JavaScript  <br>💻 Passionate about building responsive and interactive web experiences  <br>🚀 Always learning and experimenting with new web technologies  <br>
 
 
 ## 🌐 Socials:
