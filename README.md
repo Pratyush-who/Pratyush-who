@@ -1,8 +1,6 @@
 ## Hey, [Pratyush here!]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 🌐 Developer  <br>💻 Passionate about building responsive and interactive web experiences  <br>🚀 Always learning and experimenting with new web technologies  <br> ✨I make things happen <be>
 
-<h1>I make things happen..!!</h1> 
-
 <img src = 'https://github.com/codecShivam/codecShivam/blob/main/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 ## 🌐 Socials:
