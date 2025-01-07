@@ -1,6 +1,8 @@
 ## Hey, Pratyush here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 🌐 Developer  <br>💻 Passionate about building responsive and interactive web experiences  <br>🚀 Always learning and experimenting with new web technologies  <br> ✨I make things happen <be>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true">
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/o.g_pratyush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyush-mehra-3135aa1b4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/o_g_pratyush) 
 
