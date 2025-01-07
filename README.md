@@ -1,4 +1,5 @@
-## Hey, Pratyush here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F3F3F3&center=true&width=435&lines=Hii,+Pratyush+Here!)](https://github.com/Pratyush-who) 
+
 🌐 Developer  <br>💻 Passionate about building responsive and interactive web experiences  <br>🚀 Always learning and experimenting with new web technologies  <br> ✨I make things happen <be>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true">
