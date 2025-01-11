@@ -7,7 +7,7 @@
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
-🌐 Developer  <br>📲 Flutter Fanatic | 💻 Web Wizard  <br>🚀 Always learning and experimenting with new technologies  <br> ✨I make things happen <be>
+🌐 Developer  <br>💻 Passionate about building responsive and interactive web experiences  <br>🚀 Always learning and experimenting with new web technologies  <br> ✨I make things happen <be>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/o.g_pratyush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyush-mehra-3135aa1b4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/o_g_pratyush)
@@ -26,12 +26,13 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pratyush-who&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratyush-who&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-who&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Pratyush-who's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratyush-who&theme=vision-friendly-dark&hide_border=true)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pratyush-who&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Pratyush-who's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-who&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+![Pratyush-who's Stats](https://github-readme-stats.vercel.app/api?username=Pratyush-who&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 <div align="center">
   <br>
